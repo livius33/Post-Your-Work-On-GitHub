@@ -10,7 +10,8 @@ Post your Work on GitHub (docs)
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+bikeshare.py
+.csv*
 
 ### Credits
 Credit goes to Udacity, for this awesome course
