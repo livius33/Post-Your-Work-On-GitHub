@@ -4,7 +4,7 @@
 07.06.2023
 
 ### Project Title
-Replace the Project Title
+Post your Work on GitHub (docs)
 
 ### Description
 Describe what your project is about and what it does
